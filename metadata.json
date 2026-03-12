@@ -1,0 +1,5 @@
+{
+  "name": "QuickBite - Campus & City Food Pre-ordering",
+  "description": "A food pre-ordering app for students, teachers, public, and shop owners with role-based access, order queues, and map tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
